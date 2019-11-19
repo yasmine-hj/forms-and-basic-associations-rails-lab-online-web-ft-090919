@@ -38,5 +38,5 @@ ActiveRecord::Schema.define(version: 20160114013240) do
     t.integer  "artist_id"
     t.integer  "genre_id"
   end
-
+  
 end
